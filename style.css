@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+canvas {
+  box-sizing: border-box;
+  border: 1px solid black;
+  width: 750px;
+}
+form {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+.form-control {
+  display: inline-block;
+  width: 300px;
+}
+i {
+  width: 10px;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
